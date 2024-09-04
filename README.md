@@ -1,3 +1,3 @@
 # facemesh for 2 faces
 
-creates
+creates a mesh for
